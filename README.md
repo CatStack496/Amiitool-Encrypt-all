@@ -1,5 +1,5 @@
 # Amiitool-Encrypt-all
-This is just a batch file I made to encrypt all the Amiibo bin I [TOTALLY LEGALLY AQUIRED], in a popular folder layout that goes by game series.
+This is just a batch file I made to encrypt all the Amiibo bins I [TOTALLY LEGALLY AQUIRED], in a popular folder layout that goes by game series.
 
 This will require having a key_retail.bin (WHICH I WILL *NOT* BE TELLIN GYOU WHERE TO GET IT), a copy of Amiitool, the specified amiibo folder layout( which is *totally* not something you can download off the internet in the very same folder layout), the empty version of the amiibo folder with the same layout called "amiiboEncrypted", and this batch file to iterate over all 840 decrypted amiibo files.
 
