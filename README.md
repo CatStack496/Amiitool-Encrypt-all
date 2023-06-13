@@ -117,3 +117,7 @@ Here was my file file tree, minus the 840 amiibo bin filenames to spare you the 
     \---Yu-Gi-Oh!
             not shown
 ```
+
+To run the batch file correctly, have your folders set up like the one shows, and run it in the main folder where amiitool resides.
+
+HUZZAH! now you \*probaby have a folder of decrypted amiibo bins!
